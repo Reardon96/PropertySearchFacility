@@ -6,7 +6,7 @@ using Microsoft.VisualBasic.CompilerServices;
 using MySql.Data.MySqlClient;
 using MySqlConnectionLibrary;
 
-namespace SykesCottagesInterviewTest
+namespace PropertySearchFacility
 {
     public class DataAccess
     {

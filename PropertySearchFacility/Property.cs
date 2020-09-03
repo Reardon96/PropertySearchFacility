@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SykesCottagesInterviewTest
+namespace PropertySearchFacility
 {
     class Property
     {

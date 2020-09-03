@@ -1,7 +1,7 @@
-﻿<Application x:Class="SykesCottagesInterviewTest.App"
+﻿<Application x:Class="PropertySearchFacility.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:SykesCottagesInterviewTest"
+             xmlns:local="clr-namespace:PropertySearchFacility"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

@@ -5949,11 +5949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Callum\\source\\repos\\SykesCottagesInterviewTest\\PropertySearchFacility\\PropertySearchFacility.csproj",
+      "projectUniqueName": "C:\\Users\\Callum\\source\\repos\\PropertySearchFacility\\PropertySearchFacility\\PropertySearchFacility.csproj",
       "projectName": "PropertySearchFacility",
-      "projectPath": "C:\\Users\\Callum\\source\\repos\\SykesCottagesInterviewTest\\PropertySearchFacility\\PropertySearchFacility.csproj",
+      "projectPath": "C:\\Users\\Callum\\source\\repos\\PropertySearchFacility\\PropertySearchFacility\\PropertySearchFacility.csproj",
       "packagesPath": "C:\\Users\\Callum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Callum\\source\\repos\\SykesCottagesInterviewTest\\PropertySearchFacility\\obj\\",
+      "outputPath": "C:\\Users\\Callum\\source\\repos\\PropertySearchFacility\\PropertySearchFacility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

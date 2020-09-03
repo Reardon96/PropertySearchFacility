@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fVTzLcSsvujHTChYVDGkKFdG5L8ZE8BGFZSyz9/NnkCvzEPyzw/zL+Vj1ADsjbXyJ4w6Cikj7mLpgeyR8eo32w==",
+  "dgSpecHash": "x7IrInoUiyuQLu4KCLSq5/gv+ZsOJbC4s8ReyQENXwZMJbv2skQMMHYzD7hDVP9/6UALDrX+KA2iotshsSqekQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Callum\\source\\repos\\SykesCottagesInterviewTest\\PropertySearchFacility\\PropertySearchFacility.csproj",
+  "projectFilePath": "C:\\Users\\Callum\\source\\repos\\PropertySearchFacility\\PropertySearchFacility\\PropertySearchFacility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Callum\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\Callum\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

@@ -15,7 +15,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 // All pagination code has been extracted from the following source: https://www.codeproject.com/Articles/1092189/WPF-Pagination-for-DataGrid
-namespace SykesCottagesInterviewTest
+namespace PropertySearchFacility
 {
     public partial class MainWindow : Window
     {
